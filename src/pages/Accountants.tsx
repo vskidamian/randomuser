@@ -51,7 +51,7 @@ export type AccountantResponse = {
 
 const Container = styled.div`
   width: 100%;
-  padding-bottom: 86px;
+  padding-bottom: calc(3rem + 70px);
 `;
 
 const FabButtons = styled.div`
